@@ -31,3 +31,5 @@ if a == username and b == password :
         num1 = int(input("How many agg do you want :"))
         num2 = int(input("How many milk do you want :"))
         print(num1 * 10 + num2 * 40)
+    else : print("Error!")    
+        
